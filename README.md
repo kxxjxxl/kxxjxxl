@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Emad, but i also go by Kajal.
+- 👋 Hi, I’m Emad, Im a tech enthusiast, doing a little bit of this and a little bit of that.
 - 🎓 Studying computer science at Memorial University, class of 2024
-- 👀 I’m interested in everything computer science really, its fascinating how you as a person can bring some code to life.
+- 👀 I’m interested in FrontEnd and BackEnd technologies along with a little bit of machine learning.
 - 🌱 I’m currently learning frontend and backend technology stacks (MERN) that work toghther well.
 - 💞️ I’m looking to collaborate on anything that i can learn from.
 - 📫 How to reach me: you can send an email on emad.salim9113@gmail.com

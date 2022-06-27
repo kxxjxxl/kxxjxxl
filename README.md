@@ -14,6 +14,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emad-salim-b363971b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emad-salim-b363971b6/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kxxjxxl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kxxjxxl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kxxjxxl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kxxjxxl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kxxjxxl&show_icons=true&theme=tokyonight&locale=en" alt="kxxjxxl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxxjxxl&theme=dark" alt="kxxjxxl" /></p>

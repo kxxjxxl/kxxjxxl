@@ -1,4 +1,4 @@
-<h1 align="center">Hello Mello, I'm Emad</h1>
+<h1 align="center">Hello, I'm Emad</h1>
 <h3 align="center">I like to make pixels dance by writing code.</h3>
 
 - 🌱 I’m currently learning **frontend and backend technology stacks (MERN) that work together well.**

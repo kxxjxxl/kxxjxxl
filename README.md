@@ -1,7 +1,9 @@
-<h1 align="center">Hello Mello, I'm Emad</h1>
-<h3 align="center">I like to make pixels dance by writing code.</h3>
+<h1 align="center">Hello kind stranger, I'm Emad</h1>
+<h3 align="center">I enjoy making the pixels dance by writing code.</h3>
 
-- 🌱 I’m currently learning **frontend and backend technology stacks (MERN) that work together well, Machine Learning, Deep Learning, Data Visualization, Blockchain and Smart Contracts Development.**
+- 🌱 I’m currently learning **frontend and backend technology stacks that work well together, Machine Learning, Deep Learning, Data Visualization, Blockchain and Smart Contracts Development.**
+
+- 💬 Experimenting with: **Arduino, Bash, Befunge, Dart, GO, MIPS, Ruby, Rust, Swift, and System Programming**
 
 - 📫 How to reach me **emad.salim9113@gmail.com**
 

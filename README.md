@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Emad, Im a learner trying to explore my options with different avenues in Computer Science.
-- 🎓 Studying Computer Science at Memorial University, class of 2024.
-- 👀 I’m interested in FrontEnd and BackEnd technologies, Data Visuals, Machine Learning, Blockchain, Smart Contracts, and much more.
-- 🌱 I’m currently learning frontend and backend technology stacks (MERN) that work together well.
-- 💞️ I’m looking to collaborate on anything that i can learn from.
-- 📫 How to reach me: you can send an email on emad.salim9113@gmail.com
+<h1 align="center">Hello Mello, I'm Emad</h1>
+<h3 align="center">I like to make pixels dance by writing code.</h3>
 
+- 🌱 I’m currently learning **frontend and backend technology stacks (MERN) that work together well.**
 
-<!---
-kxxjxxl/kxxjxxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **emad.salim9113@gmail.com**
+
+- ⚡ Fun fact **Ive watched the TV show "Friends" 5 times over.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emad-salim-b363971b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emad-salim-b363971b6/" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kxxjxxl&show_icons=true&theme=dark&locale=en&layout=compact" alt="kxxjxxl" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kxxjxxl&show_icons=true&locale=en" alt="kxxjxxl" /></p>

@@ -6,7 +6,7 @@
 
 - 💬 Experimenting with: **Arduino, Bash, Befunge, Dart, GO, MIPS, Ruby, Rust, Swift, System Programming and Verilog**
 
-- 📫 How to reach me **emad.salim9113@gmail.com**
+- 📫 How to reach me: **emad.salim9113@gmail.com**
 
 - ⚡ Fun fact **Ive watched the TV show "Friends" 5 times over.**
 

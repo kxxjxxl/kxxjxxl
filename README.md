@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **frontend and backend technology stacks that work well together, Machine Learning, Deep Learning, Data Visualization, Blockchain and Smart Contracts Development.**
 
-- 💬 Experimenting with: **Arduino, Bash, Befunge, Dart, GO, MIPS, Ruby, Rust, Swift, and System Programming**
+- 💬 Experimenting with: **Arduino, Bash, Befunge, Dart, GO, MIPS, Ruby, Rust, Swift, System Programming and Verilog**
 
 - 📫 How to reach me **emad.salim9113@gmail.com**
 

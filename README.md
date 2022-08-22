@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **frontend and backend technology stacks that work well together, Machine Learning, Deep Learning, and Data Visualization.**
 
-- 💬 Experimenting with: **Arduino, Bash, Befunge, Elixr, Dart, GO, MIPS, Ruby, Rust, Swift, System Programming and Verilog**
-
 - 📫 How to reach me: **emad.salim9113@gmail.com**
 
 - ⚡ Fun fact **Ive watched the TV show "Friends" 5 times over.**

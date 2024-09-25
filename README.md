@@ -2,7 +2,7 @@
 <h3 align="center">I love watching my code come to life and making the pixels dance in harmony.</h3>
 <img align="right" alt="Coding" width="400" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
 
-- 🌱 "I'm currently learning a little bit of this and a little bit of that, you know, because at the end of the day, **everything is a copy of a copy of a copy.**
+- 🌱 "I am currently a student of <a href="https://www.cs.mun.ca/"> **Memorial University of Newfoundland** </a> majoring in **Computer Science.**
 
 
 
